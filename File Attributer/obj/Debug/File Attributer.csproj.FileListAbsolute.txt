@@ -1,0 +1,20 @@
+c:\users\mu12\documents\visual studio 2013\Projects\File Attributer\File Attributer\bin\Debug\File Attributer.exe
+c:\users\mu12\documents\visual studio 2013\Projects\File Attributer\File Attributer\bin\Debug\File Attributer.pdb
+c:\users\mu12\documents\visual studio 2013\Projects\File Attributer\File Attributer\obj\Debug\File Attributer.csprojResolveAssemblyReference.cache
+c:\users\mu12\documents\visual studio 2013\Projects\File Attributer\File Attributer\obj\Debug\File_Attributer.MainForm.resources
+c:\users\mu12\documents\visual studio 2013\Projects\File Attributer\File Attributer\obj\Debug\File_Attributer.Properties.Resources.resources
+c:\users\mu12\documents\visual studio 2013\Projects\File Attributer\File Attributer\obj\Debug\File Attributer.csproj.GenerateResource.Cache
+c:\users\mu12\documents\visual studio 2013\Projects\File Attributer\File Attributer\obj\Debug\File Attributer.exe
+c:\users\mu12\documents\visual studio 2013\Projects\File Attributer\File Attributer\obj\Debug\File Attributer.pdb
+c:\users\mu12\documents\visual studio 2013\Projects\File Attributer\File Attributer\bin\Debug\File Attributer.exe.config
+D:\1MPORTANT PROJECTS\Assam Ezat\File Attributer\File Attributer\bin\Debug\File Attributer.exe.config
+D:\1MPORTANT PROJECTS\Assam Ezat\File Attributer\File Attributer\obj\Debug\File Attributer.exe
+D:\1MPORTANT PROJECTS\Assam Ezat\File Attributer\File Attributer\obj\Debug\File Attributer.pdb
+D:\1MPORTANT PROJECTS\Assam Ezat\File Attributer\File Attributer\bin\Debug\File Attributer.exe
+D:\1MPORTANT PROJECTS\Assam Ezat\File Attributer\File Attributer\bin\Debug\File Attributer.pdb
+D:\1MPORTANT PROJECTS\Assam Ezat\File Attributer\File Attributer\bin\Debug\DevComponents.DotNetBar2.dll
+D:\1MPORTANT PROJECTS\Assam Ezat\File Attributer\File Attributer\bin\Debug\DevComponents.DotNetBar2.xml
+D:\1MPORTANT PROJECTS\Assam Ezat\File Attributer\File Attributer\obj\Debug\File Attributer.csprojResolveAssemblyReference.cache
+D:\1MPORTANT PROJECTS\Assam Ezat\File Attributer\File Attributer\obj\Debug\File_Attributer.MainForm.resources
+D:\1MPORTANT PROJECTS\Assam Ezat\File Attributer\File Attributer\obj\Debug\File_Attributer.Properties.Resources.resources
+D:\1MPORTANT PROJECTS\Assam Ezat\File Attributer\File Attributer\obj\Debug\File Attributer.csproj.GenerateResource.Cache
