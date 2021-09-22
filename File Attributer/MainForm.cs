@@ -39,7 +39,6 @@ namespace File_Attributer
                     {
                         int index = checkedListBox1.Items.Add(open.FileName);
                         checkedListBox1.SetItemChecked(index, true);
-                        textBoxX1.Text = open.FileName;
                     }
                 }
             }
@@ -64,7 +63,6 @@ namespace File_Attributer
                     {
                         progressBarX2.Visible = true;
                         buttonX2.Enabled = false;
-                        textBoxX2.Text = open.SelectedPath;
                         folderBrowserScan.RunWorkerAsync(open.SelectedPath);
                     }
                 }
@@ -220,6 +218,11 @@ namespace File_Attributer
         private void FileChangingProcess_ProgressChanged(object sender, ProgressChangedEventArgs e)
         {
             progressBarX1.Value = e.ProgressPercentage;
+        }
+
+        private void checkBoxItem1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

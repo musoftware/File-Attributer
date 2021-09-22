@@ -18,3 +18,14 @@ D:\1MPORTANT PROJECTS\Assam Ezat\File Attributer\File Attributer\obj\Debug\File 
 D:\1MPORTANT PROJECTS\Assam Ezat\File Attributer\File Attributer\obj\Debug\File_Attributer.MainForm.resources
 D:\1MPORTANT PROJECTS\Assam Ezat\File Attributer\File Attributer\obj\Debug\File_Attributer.Properties.Resources.resources
 D:\1MPORTANT PROJECTS\Assam Ezat\File Attributer\File Attributer\obj\Debug\File Attributer.csproj.GenerateResource.Cache
+D:\PROJECTS\1AOrganized\CSharp Projects\Musoftware\File Attributer\File Attributer\bin\Debug\File Attributer.exe.config
+D:\PROJECTS\1AOrganized\CSharp Projects\Musoftware\File Attributer\File Attributer\obj\Debug\File Attributer.exe
+D:\PROJECTS\1AOrganized\CSharp Projects\Musoftware\File Attributer\File Attributer\obj\Debug\File Attributer.pdb
+D:\PROJECTS\1AOrganized\CSharp Projects\Musoftware\File Attributer\File Attributer\obj\Debug\File Attributer.csprojResolveAssemblyReference.cache
+D:\PROJECTS\1AOrganized\CSharp Projects\Musoftware\File Attributer\File Attributer\obj\Debug\File_Attributer.MainForm.resources
+D:\PROJECTS\1AOrganized\CSharp Projects\Musoftware\File Attributer\File Attributer\obj\Debug\File_Attributer.Properties.Resources.resources
+D:\PROJECTS\1AOrganized\CSharp Projects\Musoftware\File Attributer\File Attributer\obj\Debug\File Attributer.csproj.GenerateResource.Cache
+D:\PROJECTS\1AOrganized\CSharp Projects\Musoftware\File Attributer\File Attributer\bin\Debug\File Attributer.exe
+D:\PROJECTS\1AOrganized\CSharp Projects\Musoftware\File Attributer\File Attributer\bin\Debug\File Attributer.pdb
+D:\PROJECTS\1AOrganized\CSharp Projects\Musoftware\File Attributer\File Attributer\bin\Debug\DevComponents.DotNetBar2.dll
+D:\PROJECTS\1AOrganized\CSharp Projects\Musoftware\File Attributer\File Attributer\bin\Debug\DevComponents.DotNetBar2.xml
